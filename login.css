@@ -1,0 +1,18 @@
+body{
+    background-color: blanchedalmond;
+    background-repeat: no-repeat;
+    background-image: url(/image/mainbackground.png);
+}
+.inline-text{
+    margin-top: 1rem;
+    margin-left: 0.5rem;
+}
+.inputpage{
+    margin-top: 2rem;
+}
+.inline-text{
+    color: rgb(38, 192, 87);
+}
+.user-id-button{
+   
+}
